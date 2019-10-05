@@ -46,6 +46,12 @@ h1, h2{
   height: 45px;
 }
 
+.message-form {
+  margin: 0 auto 0 auto;
+  height: 100px;
+  width: 90%;
+}
+
 
 .users-new-wrapper {
   width: 100vw;
@@ -120,6 +126,19 @@ h1, h2{
       width: 35px;
       height: 30px;
       margin-left: 20px;
+      
+    }
+    
+    .fav_number {
+      font-size: 26px;
+      padding-left: 10px;
     }
   }
+  
+}
+
+.comment-highlight {
+  
+  padding: 0 20px 0 20px;
+    
 }
